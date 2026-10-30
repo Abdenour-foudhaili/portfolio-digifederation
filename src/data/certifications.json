@@ -1,0 +1,41 @@
+[
+  {
+    "id": "dauphine-dtxe",
+    "issuer": "Université Dauphine Tunis | PSL",
+    "image": "/media/certifications/dauphine-dtxe-fullstack.webp",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Full-Stack"
+    ],
+    "verifyUrl": null
+  },
+  {
+    "id": "devops-the-bridge",
+    "issuer": "The Bridge (9antra)",
+    "image": "/media/certifications/devops-the-bridge.webp",
+    "skills": [
+      "DevOps"
+    ],
+    "verifyUrl": null
+  },
+  {
+    "id": "nvidia-dl",
+    "issuer": "NVIDIA",
+    "image": "/media/certifications/nvidia-deep-learning.webp",
+    "skills": [
+      "Deep Learning"
+    ],
+    "verifyUrl": "https://learn.nvidia.com/certificates?id=lir0qKNTQ-O4WDiCEhutUQ"
+  },
+  {
+    "id": "beecoders-angular-spring",
+    "issuer": "Bee Coders",
+    "image": null,
+    "skills": [
+      "Angular",
+      "Spring Boot"
+    ],
+    "verifyUrl": null
+  }
+]
